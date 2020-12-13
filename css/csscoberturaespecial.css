@@ -1,0 +1,41 @@
+.logo{
+    margin: 10px;
+    color: #392de0;
+}
+.imagen{
+    max-width: 100%; 
+    display:block; 
+    height: auto;
+}
+
+.titulo-cobertura-especial{
+    color:darkcyan;
+    margin-top: 20px;
+}
+
+.titulo-secundario{
+    color:blue;
+    margin: 20px 0px 20px 0px;
+}
+
+.parrafo-dia-oceanos{
+	margin-top: 20px;
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    line-height: 200%;
+}
+
+
+div .comentarios{
+    color: blueviolet;
+    font-size: medium;
+    font-family: fantasy;
+    margin-top: 10px;
+}
+
+footer{
+    color: darkviolet;
+    margin: 30px 0px 30px 0px;
+    background-color: gainsboro;
+}

@@ -1,0 +1,73 @@
+.logo{
+	margin: 10px;
+	color: #392de0;
+}
+
+.nombre-diario{
+    color: cornflowerblue;
+    margin-right: 10px;
+}
+
+.titulo{
+    color: darkcyan;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin: 10px 0px 10px 0px;
+}
+
+.copete{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: medium;
+	margin: 10px 0px 10px 0px;
+}
+
+.carousel{
+	max-height: 500px;
+    width: 500px;
+    height: 500px;
+}
+
+.color-parrafo{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: medium;
+	margin-top: 20px;
+	line-height: 200%;
+}
+
+div.card{
+	border-color: black;
+	border-style: dotted;
+	border-radius: 10px;
+	font-style: italic;
+	background-color: #ececec;
+	color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: medium;
+	margin: 10px 0px;
+	box-shadow: 10px 5px 5px rgb(98, 187, 199);
+}
+
+div.form-group{
+	height: 200px;
+	margin: 25px 0px;
+	border-radius: 25px;
+	padding: 15px;
+	font-style: italic;
+	background-color: #ececec;
+	color: blueviolet;
+	font-family: Lucida Console;
+	font-size: small;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+div .row .col{
+	color: blueviolet;
+	background-color: wheat;
+	font-family: cursive;
+	font-style: italic;
+	border-style: ridge;
+	margin: 10px 0px 20px 0px;
+}
